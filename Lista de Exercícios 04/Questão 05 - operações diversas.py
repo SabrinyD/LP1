@@ -1,0 +1,8 @@
+a = float(input('Informe um número: '))
+b = float(input('Informe um segundo número: '))
+print('A soma dos números informados é de:', a + b)
+print('A subtração dos números informados é de', a - b)
+print('A multiplicação dos números informados é de:', a * b)
+print('A divisão dos números informados é de:', a / b)
+print('A divisão inteira dos números informados é de:', a//b)
+print('O resto da divisão dos números informados é de:', a % b)
